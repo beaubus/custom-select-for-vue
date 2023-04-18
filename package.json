@@ -1,6 +1,6 @@
 {
     "name": "@beaubus/custom-select-for-vue",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "description": "Simple unstyled custom select component for Vue 3 with v-model and support of @focusout event",
     "author": "BEAUBUS",
     "license": "MIT",

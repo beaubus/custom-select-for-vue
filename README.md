@@ -1,5 +1,3 @@
-Simple unstyled custom select component with v-model and support of @focusout event
-
 <a href="https://www.npmjs.com/package/@beaubus/custom-select-for-vue">
     <img src="https://img.shields.io/npm/dt/@beaubus/custom-select-for-vue?logo=npm" alt="npm downnloads count">
 </a>
@@ -13,7 +11,9 @@ Simple unstyled custom select component with v-model and support of @focusout ev
 </a>
 
 <br>
-<br>
+
+Simple unstyled custom select component with v-model and support of @focusout event
+
 
 ![](demo.gif)
 
