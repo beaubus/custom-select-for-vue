@@ -1,0 +1,33 @@
+{
+    "name": "custom-select-for-vue",
+    "version": "0.0.1",
+    "description": "Simple unstyled custom select component for Vue 3 with v-model and support of @focusout event",
+    "author": "BEAUBUS",
+    "license": "MIT",
+    "files": ["dist"],
+    "main": "./dist/my-lib.umd.js",
+    "module": "./dist/my-lib.es.js",
+    "exports": {
+        ".": {
+            "import": "./dist/my-lib.es.js",
+            "require": "./dist/my-lib.umd.js"
+        }
+    },
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "devDependencies": {
+        "vue": "^3.2.47",
+        "@vitejs/plugin-vue": "^4.1.0",
+        "vite": "^4.2.0"
+    },
+    "keywords": [
+        "vue",
+        "vue3",
+        "vue 3.0",
+        "vuejs",
+        "select"
+    ]
+}
