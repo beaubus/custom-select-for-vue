@@ -62,7 +62,5 @@ export default {
 
 
 <style scoped>
-    .cs-options:focus {
-        outline: 0;
-    }
+    .cs-options:focus { outline: 0 }
 </style>
