@@ -12,7 +12,7 @@
 
 <br>
 
-Simple unstyled custom select component with v-model and support of @focusout event
+Simple unstyled custom select component for Vue.js 3 with v-model and support of @focusout event
 
 
 ![](demo.gif)
