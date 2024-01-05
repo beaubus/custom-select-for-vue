@@ -17,6 +17,8 @@ Simple unstyled custom select component for Vue.js 3 with v-model and support of
 
 ![](demo.gif)
 
+<br>
+
 ## Installation
 ```shell
 npm i @beaubus/custom-select-for-vue
